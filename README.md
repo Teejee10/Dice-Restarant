@@ -1,2 +1,4 @@
-# Dice-Restarant
-A Dice Restarant
+# Dice-Restaurant
+
+#purely Html and CSS designed by Dice Inc.
+#Trex
